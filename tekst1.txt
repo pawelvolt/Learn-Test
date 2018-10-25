@@ -4,3 +4,5 @@ Pierwszy tekst napisany przy pomocy kontroli wersji.
 Dodano linię 2....
 
 Film numer 2 z coding train był spoko 
+
+Od teraz to całkowicie nowa gałąź projektu
