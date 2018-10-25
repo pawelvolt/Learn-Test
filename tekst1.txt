@@ -1,1 +1,4 @@
 Pierwszy tekst napisany przy pomocy kontroli wersji.
+
+
+Dodano linię 2....
